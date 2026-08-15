@@ -1,0 +1,257 @@
+{
+  "college": {
+    "name": "Example Pre-University College",
+    "code": "PUC-0001",
+    "place": "Bengaluru",
+    "taluk": "Bengaluru North",
+    "district": "Bengaluru Urban",
+    "udise_code": "00000000000",
+    "principal_name": "Principal Name",
+    "academic_year": "2026-27",
+    "management": "GOVERNMENT",
+    "college_timings": "09:00 AM - 04:00 PM",
+    "lunch_break": "12:00 PM - 01:00 PM"
+  },
+  "days": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "periods": [
+    "09:00-10:00",
+    "10:00-11:00",
+    "11:00-12:00",
+    "01:00-02:00",
+    "02:00-03:00",
+    "03:00-04:00"
+  ],
+  "sections": [
+    {
+      "name": "1st PUC Arts A",
+      "year": "1st PUC",
+      "stream": "Arts",
+      "strength": 60,
+      "languages": [
+        "01",
+        "02"
+      ],
+      "optionals": [
+        "21",
+        "22",
+        "28",
+        "29"
+      ],
+      "practical_batches": {}
+    },
+    {
+      "name": "1st PUC Commerce A",
+      "year": "1st PUC",
+      "stream": "Commerce",
+      "strength": 60,
+      "languages": [
+        "01",
+        "02"
+      ],
+      "optionals": [
+        "21",
+        "22",
+        "27",
+        "30"
+      ],
+      "practical_batches": {}
+    },
+    {
+      "name": "1st PUC Science A",
+      "year": "1st PUC",
+      "stream": "Science",
+      "strength": 48,
+      "languages": [
+        "01",
+        "02"
+      ],
+      "optionals": [
+        "33",
+        "34",
+        "35",
+        "36"
+      ],
+      "practical_batches": {
+        "33": 1,
+        "34": 1,
+        "36": 1
+      }
+    },
+    {
+      "name": "2nd PUC Arts A",
+      "year": "2nd PUC",
+      "stream": "Arts",
+      "strength": 58,
+      "languages": [
+        "01",
+        "02"
+      ],
+      "optionals": [
+        "21",
+        "22",
+        "28",
+        "29"
+      ],
+      "practical_batches": {}
+    },
+    {
+      "name": "2nd PUC Commerce A",
+      "year": "2nd PUC",
+      "stream": "Commerce",
+      "strength": 55,
+      "languages": [
+        "01",
+        "02"
+      ],
+      "optionals": [
+        "21",
+        "22",
+        "27",
+        "30"
+      ],
+      "practical_batches": {}
+    },
+    {
+      "name": "2nd PUC Science A",
+      "year": "2nd PUC",
+      "stream": "Science",
+      "strength": 45,
+      "languages": [
+        "01",
+        "02"
+      ],
+      "optionals": [
+        "33",
+        "34",
+        "35",
+        "36"
+      ],
+      "practical_batches": {
+        "33": 1,
+        "34": 1,
+        "36": 1
+      }
+    }
+  ],
+  "lecturers": [
+    {
+      "name": "Kannada Lecturer",
+      "subjects": [
+        "01"
+      ],
+      "employment": "PERMANENT",
+      "weekly_workload_target": 20
+    },
+    {
+      "name": "English Lecturer",
+      "subjects": [
+        "02"
+      ],
+      "employment": "PERMANENT",
+      "weekly_workload_target": 20
+    },
+    {
+      "name": "History Lecturer",
+      "subjects": [
+        "21"
+      ],
+      "employment": "PERMANENT",
+      "weekly_workload_target": 20
+    },
+    {
+      "name": "Economics Lecturer",
+      "subjects": [
+        "22"
+      ],
+      "employment": "PERMANENT",
+      "weekly_workload_target": 20
+    },
+    {
+      "name": "Sociology Lecturer",
+      "subjects": [
+        "28"
+      ],
+      "employment": "PERMANENT",
+      "weekly_workload_target": 20
+    },
+    {
+      "name": "Political Science Lecturer",
+      "subjects": [
+        "29"
+      ],
+      "employment": "PERMANENT",
+      "weekly_workload_target": 20
+    },
+    {
+      "name": "Business Studies Lecturer",
+      "subjects": [
+        "27"
+      ],
+      "employment": "PERMANENT",
+      "weekly_workload_target": 20
+    },
+    {
+      "name": "Accountancy Lecturer",
+      "subjects": [
+        "30"
+      ],
+      "employment": "PERMANENT",
+      "weekly_workload_target": 20
+    },
+    {
+      "name": "Physics Lecturer",
+      "subjects": [
+        "33"
+      ],
+      "employment": "PERMANENT",
+      "weekly_workload_target": 20
+    },
+    {
+      "name": "Chemistry Lecturer",
+      "subjects": [
+        "34"
+      ],
+      "employment": "PERMANENT",
+      "weekly_workload_target": 20
+    },
+    {
+      "name": "Mathematics Lecturer",
+      "subjects": [
+        "35"
+      ],
+      "employment": "PERMANENT",
+      "weekly_workload_target": 20
+    },
+    {
+      "name": "Biology Lecturer",
+      "subjects": [
+        "36"
+      ],
+      "employment": "PERMANENT",
+      "weekly_workload_target": 20
+    },
+    {
+      "name": "Kannada Lecturer 2",
+      "subjects": [
+        "01"
+      ],
+      "employment": "PERMANENT",
+      "weekly_workload_target": 20
+    },
+    {
+      "name": "English Lecturer 2",
+      "subjects": [
+        "02"
+      ],
+      "employment": "PERMANENT",
+      "weekly_workload_target": 20
+    }
+  ]
+}
